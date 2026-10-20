@@ -33,6 +33,6 @@ export const siteConfig: SiteConfig = {
     youtube: "https://www.youtube.com/@Sminofu",
     visualizer: "https://www.youtube.com/watch?v=vd6wF6FPYLU",
   },
-  locales: ["en", "es", "pt", "de", "fr"],
+  locales: ["en", "zu", "xh", "af"],
   defaultLocale: "en",
 };

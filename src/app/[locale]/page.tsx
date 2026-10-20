@@ -8,18 +8,19 @@ import en from "@/locales/en.json";
 import HomePageClient, { HomeHero } from "./HomePageClient";
 
 const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || "https://sminofu-itekisi.wiki";
-const homeTitle = `${siteConfig.name} - Tracklist & Song Guide`;
-
 type Messages = typeof en;
 
 export async function generateMetadata({ params }: { params: Promise<{ locale: string }> }): Promise<Metadata> {
   const { locale } = await params;
+  const messages = (await getMessages({ locale })) as Messages;
+  const title = messages.home.meta.title;
+  const description = messages.home.meta.description;
   return {
-    title: homeTitle,
-    description: siteConfig.description,
+    title,
+    description,
     alternates: { canonical: `/${locale}`, languages: Object.fromEntries(routing.locales.map((loc) => [loc, `/${loc}`])) },
-    openGraph: { title: homeTitle, description: siteConfig.description, url: `${siteUrl}/${locale}`, images: [`${siteUrl}/images/hero.webp`] },
-    twitter: { card: "summary_large_image", title: homeTitle, description: siteConfig.description, images: [`${siteUrl}/images/hero.webp`] },
+    openGraph: { title, description, url: `${siteUrl}/${locale}`, images: [`${siteUrl}/images/hero.webp`] },
+    twitter: { card: "summary_large_image", title, description, images: [`${siteUrl}/images/hero.webp`] },
   };
 }
 
@@ -28,7 +29,7 @@ export default async function LocaleHomePage({ params }: { params: Promise<{ loc
   const loc = locale as Locale;
   const messages = (await getMessages({ locale })) as Messages;
   const navGroups = getDynamicNavigation(loc);
-  const webSite = { "@context": "https://schema.org", "@type": "WebSite", name: siteConfig.name, alternateName: siteConfig.shortName, url: siteUrl, description: siteConfig.description, inLanguage: locale };
+  const webSite = { "@context": "https://schema.org", "@type": "WebSite", name: siteConfig.name, alternateName: siteConfig.shortName, url: siteUrl, description: messages.home.meta.description, inLanguage: locale };
 
   // 动态加载所有 content 目录下的文章
   const allArticles: ContentItem[] = [];

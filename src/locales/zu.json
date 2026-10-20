@@ -1,1 +1,489 @@
-{}
+{
+  "site": {
+    "name": "Sminofu iTekisi Wiki",
+    "shortName": "Sminofu iTekisi",
+    "tagline": "Umhlahlandlela we-albhamu enezingoma ezingu-17, imininingwane yokukhishwa nesibonisi",
+    "description": "Hlola i-albhamu Sminofu iTekisi, ekhishwe ngomhla ka-Okthoba 16, 2026, ngohlu lwayo oluphelele lwamathrekhi angu-17, ulwazi lwengoma, imininingwane yokukhishwa, nezinsiza ezisemthethweni zamavidiyo omculo.",
+    "legalNotice": "Insiza yabalandeli engekho emthethweni. Umhlahlandlela we-albhamu ezimele kanye nokufakwa komculo."
+  },
+  "nav": {
+    "guide": "Umhlahlandlela",
+    "songs": "Izingoma",
+    "music": "Umculo",
+    "artists": "Abaculi",
+    "lyrics": "Amagama ezingoma",
+    "platforms": "Amapulatifomu",
+    "discovery": "Ukutholwa",
+    "menu": "Imenyu",
+    "toggleTheme": "Guqula itimu"
+  },
+  "home": {
+    "meta": {
+      "title": "Sminofu iTekisi Wiki - Uhlu Lwezingoma & Umhlahlandlela Wengoma",
+      "description": "Hlola i-albhamu ye-Sminofu iTekisi ngohlu lwayo oluphelele lwamathrekhi angu-17, imininingwane yezingoma, idethi yokukhishwa, ingemuva lomculo Maskandi, nezinsiza zamavidiyo asemthethweni."
+    },
+    "hero": {
+      "eyebrow": "Maskandi Insiza ye-albhamu",
+      "title": "Sminofu iTekisi Wiki",
+      "description": "Hlola i-albhamu Sminofu ka-2026 iTekisi, ukufakwa kuhlu kwayo okuphelele kwamathrekhi angu-17, imininingwane yokukhishwa, ingemuva le-Maskandi, nezisetshenziswa ezisemthethweni zokubuka.",
+      "stats": [
+        "Izingoma ezingu-17",
+        "Okthoba 16, 2026",
+        "Maskandi",
+        "EMPIRE"
+      ],
+      "primaryCta": "Lalela ku-Apple Music",
+      "secondaryCta": "Buka Isibonisi Esisemthethweni",
+      "tertiaryCta": "Imininingwane ye-albhamu",
+      "videoLabel": "Isibonisi esisemthethweni"
+    },
+    "updates": {
+      "title": "Izibuyekezo Zakamuva",
+      "browse": "Phequlula Yonke Imihlahlandlela",
+      "viewAll": "Buka Konke"
+    },
+    "start": {
+      "eyebrow": "Qala Lapha",
+      "title": "Sminofu iTekisi Uhambo lwakho",
+      "cards": [
+        {
+          "number": "1",
+          "title": "Umhlahlandlela Osaqala",
+          "description": "Qala ngezinto ezibalulekile ze-albhamu: umculi, idethi yokukhishwa, ububanzi bezingoma ezingu-17, kanye nomsindo we-Maskandi ngemuva kwe-iTekisi."
+        },
+        {
+          "number": "2",
+          "title": "Uhlu Lwezingoma Olugcwele",
+          "description": "Bona zonke izingoma ezingu-17 ngokulandelana kwe-albhamu, okuhlanganisa izikhathi zokudlala nokuvela kwezivakashi ezinhlanu."
+        },
+        {
+          "number": "3",
+          "title": "Izingoma Ezivelele",
+          "description": "Qala ngengoma yesihloko, ingoma eyinhloko engu-6:05 i-Igeja, kanye nezikhathi eziqine kakhulu zezivakashi."
+        },
+        {
+          "number": "4",
+          "title": "Umhlahlandlela wokulalela",
+          "description": "Hlela ukulalela kusukela ekuqaleni kuze kube sekupheleni noma yakha umzila omfushane kuyo yonke i-albhamu."
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "Amakhasi athandwayo",
+      "title": "Okudumile Manje",
+      "quickLinks": [
+        "Ukubuka konke kwe-albhamu",
+        "Uhlu Lwezingoma Olugcwele",
+        "Abaculi abafakiwe",
+        "Umhlahlandlela wokulalela"
+      ],
+      "cards": [
+        {
+          "badge": "Qala",
+          "title": "Ukubuka konke kwe-albhamu",
+          "description": "Thola idethi yokukhishwa, inani lezingoma, isikhathi sokusebenza, ikhredithi yelebula, nesimo se-albhamu ka-Sminofu enezingoma ezingu-17.",
+          "href": "/guide/sminofu-itekisi-album"
+        },
+        {
+          "badge": "Uhlu lwezingoma",
+          "title": "Zonke Izingoma Eziyi-17 Ngokulandelana",
+          "description": "Landela i-oda eliphelele elisebenzayo elinamakhredithi ezivakashi nezikhathi zokusebenza zengoma ngayinye.",
+          "href": "/guide/sminofu-itekisi-tracklist"
+        },
+        {
+          "badge": "Ukubuyekezwa",
+          "title": "Ukubuyekezwa kwe-Sminofu Itekisi",
+          "description": "Funda indlela umsebenzi wesiginci se-Maskandi, ukulandelana, nokubekwa kwezivakashi okubumba ngayo i-albhamu.",
+          "href": "/guide/sminofu-itekisi-album-review"
+        },
+        {
+          "badge": "Abaculi",
+          "title": "Abaculi abafakiwe",
+          "description": "Hlangana no-Londeka Shangase, Ojakalasi, Njabulo Langa, kanye no-Zanefa Ngidi.",
+          "href": "/artists/sminofu-itekisi-featured-artists"
+        },
+        {
+          "badge": "Ukukhishwa",
+          "title": "Imininingwane yokukhishwa",
+          "description": "Qinisekisa idethi yokukhishwa yango-Okthoba 16, 2026 namakhredithi e-albhamu.",
+          "href": "/guide/sminofu-itekisi-album-release-date"
+        },
+        {
+          "badge": "Izingoma",
+          "title": "Amagama engoma yesihloko",
+          "description": "Hlola ukuxoxwa kwezindaba ezinetimu yetekisi ngemuva kwethrekhi yesihloko ye-iTekisi.",
+          "href": "/lyrics/sminofu-itekisi-lyrics"
+        },
+        {
+          "badge": "Sakaza",
+          "title": "Spotify Umhlahlandlela we-albhamu",
+          "description": "Vula ikhasi le-albhamu elisemthethweni bese ulandela i-albhamu ingoma ngayinye.",
+          "href": "/platforms/sminofu-itekisi-spotify"
+        },
+        {
+          "badge": "Lalela",
+          "title": "Umhlahlandlela wokuxuba i-albhamu",
+          "description": "Yakha umzila wemizuzu engama-30 noma uzwe wonke amathrekhi angu-17 njengokulalela okukodwa okuqhubekayo.",
+          "href": "/guide/sminofu-itekisi-album-mix"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "Yini i-Sminofu iTekisi?",
+      "paragraphs": [
+        "I-Sminofu iTekisi yi-albhamu ka-2026 ye-Maskandi yomculi waseNingizimu Afrika uSminofu, ekhishwe ngo-Okthoba 16, 2026 nge-Sminofu / EMPIRE. Iphrojekthi enezingoma ezingu-17 ithatha cishe ihora nemizuzu eyisithupha, inezingoma ezingayedwa eziyishumi nambili kanye nokusebenzisana okuhlanu okuhlanganisa abaculi abane abayizivakashi.",
+        "Igama lisho itekisi ngesiZulu, futhi irekhodi lisebenzisa leso simo sansuku zonke njengohlaka lokunyakaza, ukuzabalaza, ingxoxo, nolwazi olwabiwe. Isisekelo sayo se-Maskandi sigxilisa isiginci esikhothwa ngeminwe nokuxoxa izindaba, kuyilapho ukulandelana kusuka kusingeniso esifushane nengoma yesihloko kuya engxenyeni yesibili egcwele izivakashi ngaphambi kokuvala nge-eMachobeni."
+      ],
+      "stats": [
+        {
+          "label": "Umculi",
+          "value": "Sminofu"
+        },
+        {
+          "label": "I-albhamu",
+          "value": "iTekisi"
+        },
+        {
+          "label": "Kukhishwe",
+          "value": "Okthoba 16, 2026"
+        },
+        {
+          "label": "Amathrekhi",
+          "value": "17"
+        },
+        {
+          "label": "Isikhathi sokusebenza",
+          "value": "1h 6m"
+        },
+        {
+          "label": "Uhlobo",
+          "value": "Maskandi"
+        },
+        {
+          "label": "Ilebula",
+          "value": "Sminofu / EMPIRE"
+        },
+        {
+          "label": "Izivakashi",
+          "value": "4"
+        }
+      ],
+      "cta": "Funda Umhlahlandlela We-albhamu"
+    },
+    "explore": {
+      "title": "Hlola Sminofu iTekisi",
+      "description": "Ngena ku-albhamu enezingoma ezingu-17 ngohlu lwayo oluphelele, izingoma ezivelele, abaculi abafakiwe, imininingwane yokukhishwa, amagama ezingoma, nezindlela zokulalela.",
+      "modules": [
+        {
+          "order": 1,
+          "name": "Sminofu Itekisi Uhlolojikelele lwe-albhamu",
+          "description": "Yethula i-albhamu ka-2026 Maskandi, imininingwane yokukhishwa kwayo, isu lezivakashi, kanye nokuma kokulandelana kwayo okunezingoma ezingu-17.",
+          "href": "/guide/sminofu-itekisi-album",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "I-albhamu",
+              "detail": "I-albhamu ka-Sminofu ka-2026 ye-Maskandi, ekhishwe nge-Sminofu / EMPIRE"
+            },
+            {
+              "label": "Umsindo",
+              "detail": "Isiginci esikhothwa ngeminwe, amazwi eqembu, nesisekelo esiphansi esigcwele sesimanje"
+            },
+            {
+              "label": "Izingoma ezingu-17",
+              "detail": "Izingoma ezingayedwa eziyishumi nambili nokusebenzisana okuhlanu emizuzwini engama-66"
+            },
+            {
+              "label": "EMPIRE",
+              "detail": "Ilebula nekhredithi yamalungelo okwabelwana ngayo ngu-Sminofu kanye ne-EMPIRE"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Uhlu lwezingoma lwe-Sminofu Itekisi",
+          "description": "Landela zonke izingoma ezingu-17 ngokulandelana kwe-albhamu, nezikhathi zokudlala namakhredithi ezivakashi kuntsebenziswano ngayinye.",
+          "href": "/guide/sminofu-itekisi-tracklist",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "01",
+              "detail": "Benilindele Bani (Intro) — 1:28 isingeniso"
+            },
+            {
+              "label": "02",
+              "detail": "iTekisi — 4:06 iculo lesihloko"
+            },
+            {
+              "label": "07",
+              "detail": "Ngithunjiwe — 3:26 no-Londeka Shangase"
+            },
+            {
+              "label": "17",
+              "detail": "eMachobeni — 3:43 isiphetho se-albhamu"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "Sminofu Itekisi Izingoma Ezivelele",
+          "description": "Hlela izingoma ezibalulekile ze-albhamu ngendima ezidlalayo, kusukela engomeni yesihloko nengoma ende ephambili kuya engxenyeni yesibili eholwa izivakashi.",
+          "href": "/music/sminofu-itekisi-latest-songs",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "iTekisi (4:06) kanye ne-Igeja (6:05) ziqinisa isihloko nengoma ende kakhulu"
+            },
+            {
+              "label": "A",
+              "detail": "Ngithunjiwe (3:26) kanye ne-Iyeke Leyondaba (5:11) kuhlanganisa isivakashi sokuqala nengoma ende yakamuva"
+            },
+            {
+              "label": "B",
+              "detail": "Madagascar (4:20) kanye ne-Ngo December (3:34) zigcina izingxenye zomculi eyedwa nezivakashi zinyakaza"
+            },
+            {
+              "label": "C",
+              "detail": "Benilindele Bani (Intro) (1:28) kanye ne-Why Umehlulela (3:12) zibeka imiphetho yezigaba ezifushane"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Sminofu Itekisi Incazelo ye-albhamu",
+          "description": "Hlola isingathekiso setekisi ngemuva kwesihloko nezindikimba zansuku zonke zokunyakaza, ukuphithizela, idumela, nendawo okwabelwana ngayo.",
+          "href": "/guide/sminofu-itekisi-album-review",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Itekisi",
+              "detail": "Itekisi isho itekisi ngesiZulu, isizinda esiyinhloko se-albhamu sansuku zonke"
+            },
+            {
+              "label": "Ukuzabalaza",
+              "detail": "Ukunyakaza phakathi komsebenzi, izibopho, kanye nethuba kuhamba ngezingoma"
+            },
+            {
+              "label": "Abantu",
+              "detail": "Itekisi iba inkundla yezingxoxo, amahlaya, nedumela"
+            },
+            {
+              "label": "Ndawonye",
+              "detail": "Ukuvakasha okwabiwe kushintsha abantu abangabazi babe izethameli nomphakathi wesikhashana"
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Sminofu Itekisi Abaculi Abafakiwe",
+          "description": "Hlangana nezivakashi ezine kumathrekhi amahlanu futhi ubone ukuthi ukubonakala ngakunye kufinyelela kuphi ngokulandelana.",
+          "href": "/artists/sminofu-itekisi-featured-artists",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Londeka",
+              "detail": "Londeka Shangase uvela kabili, ku-Ngithunjiwe naku-Ngo December"
+            },
+            {
+              "label": "Ojakalasi",
+              "detail": "Ojakalasi uhlanganyela no-Emabhilidini engomeni yesi-9 kumdlalo waphakathi kwe-albhamu"
+            },
+            {
+              "label": "Njabulo",
+              "detail": "Njabulo Langa uthatha ithuba lesivakashi esingu-3:17 ku-Umalumekazi"
+            },
+            {
+              "label": "Zanefa",
+              "detail": "Zanefa Ngidi uqinisa umdlalo wesivakashi wamva ku-Njengobaba"
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Sminofu Itekisi Idethi yokukhishwa",
+          "description": "Hlola idethi yokukhishwa, inani lamathrekhi, isikhathi sokusebenza, ilebula yekhredithi, nalapho i-albhamu itholakala khona ukuze isakazwe.",
+          "href": "/guide/sminofu-itekisi-album-release-date",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "2026-10-16",
+              "detail": "Idethi yokukhishwa kwe-albhamu"
+            },
+            {
+              "label": "17",
+              "detail": "Izingoma eziku-albhamu"
+            },
+            {
+              "label": "66:37",
+              "detail": "Isikhathi sokusebenza esiphelele"
+            },
+            {
+              "label": "EMPIRE",
+              "detail": "Ikhredithi yelebula: Sminofu / EMPIRE"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Amagama ezingoma",
+          "description": "Landela ukuxoxa indaba enetimu yetekisi yethrekhi futhi uthole umthombo osemthethweni wokulalela wamagama.",
+          "href": "/lyrics/sminofu-itekisi-lyrics",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Isihloko",
+              "detail": "iTekisi iyisihloko se-albhamu nengoma yayo yesibili engu-4:06"
+            },
+            {
+              "label": "Itekisi",
+              "detail": "Itekisi ibeka izigcawu zansuku zonke, izingxoxo namahlaya"
+            },
+            {
+              "label": "isiZulu",
+              "detail": "Ingoma isebenzisa amabinzana esiZulu kanye nokuphendulana kwe-Maskandi."
+            },
+            {
+              "label": "Esemthethweni",
+              "detail": "Sebenzisa ikhasi lengoma elisemthethweni ukuze uthole ukubuka okugunyaziwe kwengoma"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Sminofu Itekisi Umhlahlandlela wokulalela",
+          "description": "Hlela ukulalela kokuqala kusukela ekuqaleni kuze kube sekupheleni, umdlalo wezivakashi ogxilile, noma umzila omfushane wemizuzu engama-30 kuyo yonke i-albhamu.",
+          "href": "/guide/sminofu-itekisi-album-mix",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Dlala isingeniso esingu-1:28 ngokugcwele ngaphambi kwengoma yesihloko"
+            },
+            {
+              "label": "2",
+              "detail": "Qhubeka nezingoma 2 kuya ku-6 ukuze uthole isigaba eside somculi eyedwa"
+            },
+            {
+              "label": "3",
+              "detail": "Faka izingoma 7, 9, 12, 14 ne-15 ohlwini lwazo zonke izivakashi"
+            },
+            {
+              "label": "4",
+              "detail": "Lalela i-Igeja (6:05) ne-Iyeke Leyondaba (5:11) ngokugxila"
+            },
+            {
+              "label": "5",
+              "detail": "Qeda nge-eMachobeni ngaphandle kokushintsha ukulandelana"
+            },
+            {
+              "label": "6",
+              "detail": "Yakha umzila omfushane wemizuzu engama-30 kusukela kulandelano lokuqala lwezingoma eziyisishiyagalombili"
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "imibuzo ejwayelekile ukubuzwa",
+      "description": "Izimpendulo ezisheshayo zemibuzo evame kakhulu mayelana ne-Sminofu iTekisi.",
+      "items": [
+        {
+          "question": "Yini i-Sminofu iTekisi?",
+          "answer": "I-Sminofu iTekisi yi-albhamu ka-2026 ye-Maskandi yomculi waseNingizimu Afrika uSminofu. Ikhishwe ngo-Okthoba 16, 2026 nge-Sminofu / EMPIRE futhi iqukethe izingoma ezingu-17 cishe ihora elilodwa nemizuzu eyisithupha."
+        },
+        {
+          "question": "Zingaki izingoma eziku-Sminofu iTekisi?",
+          "answer": "Kunezingoma ezingu-17, okuhlanganisa isingeniso esingu-1:28 i-Benilindele Bani, iculo elingu-4:06 elithi iTekisi, kanye nesiphetho esingu-3:43 i-eMachobeni. Izingoma eziyishumi nambili zomculi eyedwa kanti ezinhlanu zihlanganisa abaculi abayizivakashi."
+        },
+        {
+          "question": "Ubani ofaka ku-Sminofu iTekisi?",
+          "answer": "U-Londeka Shangase, Ojakalasi, Njabulo Langa, kanye no-Zanefa Ngidi bavela ezingomeni ezinhlanu. UShangase uyena kuphela isivakashi esibonakale kabili, ku-Ngithunjiwe naku-Ngo December."
+        },
+        {
+          "question": "Sisho ukuthini igama elithi Sminofu iTekisi?",
+          "answer": "Itekisi isho itekisi ngesiZulu. I-albhamu isebenzisa leso simo sansuku zonke ukuhlaka ukunyakaza, ukuzabalaza, ingxoxo, idumela, nolwazi olwabiwe."
+        },
+        {
+          "question": "Ngingasakaza kuphi i-Sminofu iTekisi?",
+          "answer": "I-albhamu iyatholakala ezinsizeni zokusakaza ezisemthethweni ezihlanganisa i-Spotify ne-Apple Music. Sebenzisa imihlahlandlela yamapulatifomu kule sayithi ukuze uthole izixhumanisi eziqondile ze-albhamu namathiphu okulalela."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "Hlola i-albhamu ka-Sminofu iTekisi",
+      "description": "Phequlula uhlu oluphelele lwezingoma, imininingwane yokukhishwa, kanye nomongo kaMaskandi, bese ubuka isibonisi esisemthethweni.",
+      "primary": "Buka Imininingwane Ye-albhamu",
+      "secondary": "Lalela ku-Apple Music"
+    }
+  },
+  "guide": {
+    "overviewTitle": "Umhlahlandlela we-albhamu ka-Sminofu Itekisi",
+    "overviewDescription": "Landela i-albhamu ye-iTekisi kusukela esakhiweni sayo samathrekhi angu-17 kanye nedethi yokukhishwa kuya ezingomeni zayo eziqine kakhulu, ukubuyekezwa, nemininingwane yokulalela."
+  },
+  "songs": {
+    "overviewTitle": "Izingoma zika-Sminofu Itekisi",
+    "overviewDescription": "Phequlula izingoma ze-Sminofu Itekisi, okuhlanganisa nengoma yesihloko, Benilindele Bani, Igeja, nezinye izithombe ezinhle kakhulu ze-albhamu."
+  },
+  "music": {
+    "overviewTitle": "Umculo namavidiyo ka-Sminofu Itekisi",
+    "overviewDescription": "Buka okulalelwayo okusemthethweni, izibonisi, namavidiyo omculo, futhi uhlole izingoma zakamuva Sminofu Itekisi nokudlala kabusha kwe-albhamu ephelele."
+  },
+  "artists": {
+    "overviewTitle": "Abaculi nabahlanganyeli baka-Sminofu Itekisi",
+    "overviewDescription": "Hlangana no-Sminofu namaciko afakiwe akha i-albhamu iTekisi, okuhlanganisa u-Londeka Shangase, Njabulo Langa, kanye Zanefa Ngidi."
+  },
+  "lyrics": {
+    "overviewTitle": "Amagama ezingoma zika-Sminofu Itekisi",
+    "overviewDescription": "Funda amagama ezingoma ku-albhamu iTekisi bese ulandela amagama angemva kweculo layo lesihloko, Benilindele Bani, Emabhilidini, nokuningi."
+  },
+  "platforms": {
+    "overviewTitle": "Amapulatifomu okusakaza ka-Sminofu Itekisi",
+    "overviewDescription": "Thola i-albhamu ye-iTekisi ku-Spotify, Apple Music, YouTube, nezinye izinkundla, ezinezixhumanisi zokulalela okuqondile nezokuthola."
+  },
+  "discovery": {
+    "overviewTitle": "Ukutholwa kwe-albhamu ka-Sminofu Itekisi",
+    "overviewDescription": "Zitholele ukuthi ungasakaza kuphi, ulande, futhi uhlole i-albhamu yakamuva Sminofu Itekisi kuwo wonke amasevisi omculo asemthethweni."
+  },
+  "shared": {
+    "wikiNavigation": "Ukuzulazula ku-Wiki",
+    "activeCodes": "Amakhodi Asebenzayo",
+    "updated": "Kubuyekeziwe",
+    "viewAllCodes": "Buka wonke amakhodi",
+    "playOnRoblox": "Dlala ku-Roblox",
+    "inThisSection": "Kulesi sigaba",
+    "tableOfContents": "Okuqukethwe",
+    "nextSteps": "Izinyathelo Ezilandelayo",
+    "needHelp": "Udinga Usizo?",
+    "relatedReading": "Ukufunda Okuhlobene",
+    "relatedGuides": "Imihlahlandlela Ehlobene",
+    "readMore": "Funda kabanzi",
+    "officialMedia": "Imidiya esemthethweni",
+    "home": "Ikhaya",
+    "noGuidesAvailable": "Ayikho imihlahlandlela etholakalayo okwamanje. Hlola futhi maduze!"
+  },
+  "notFound": {
+    "title": "Ikhasi alitholakalanga",
+    "description": "Umhlahlandlela owufunayo kungenzeka ususiwe noma awukafakwa.",
+    "browse": "Phequlula imihlahlandlela ye-albhamu"
+  },
+  "footer": {
+    "aboutTitle": "Sminofu iTekisi Wiki",
+    "about": "I-Sminofu iTekisi Wiki iyinsiza ye-albhamu eyakhiwe abalandeli abazimele ehlanganisa ukukhishwa kwezingoma ezingu-17, imininingwane yengoma, ingemuva le-Maskandi, nezixhumanisi ezisemthethweni zesibonisi.",
+    "quickLinks": "Izixhumanisi Ezisheshayo",
+    "guides": "Imihlahlandlela",
+    "legal": "Okusemthethweni",
+    "copyright": "2026 Sminofu iTekisi Wiki. Ayihlangene ne-Sminofu, EMPIRE, noma Apple Music.",
+    "description": "Umhlahlandlela ozimele we-albhamu ye-Maskandi ka-Sminofu ka-2026 iTekisi.",
+    "playGame": "Lalela ku-Apple Music",
+    "officialDiscord": "Isibonisi Esisemthethweni",
+    "officialYoutube": "YouTube esemthethweni",
+    "vvBuilder": "Isibonisi Esisemthethweni",
+    "beginnerGuide": "Ukubuka konke kwe-albhamu",
+    "raceGuides": "Uhlu lwamathrekhi nokukhishwa",
+    "bossGuides": "Ingemuva le-Maskandi",
+    "buildGuide": "Umhlahlandlela wesibonisi",
+    "privacyPolicy": "Inqubomgomo yobumfihlo",
+    "termsOfService": "Imigomo Yesevisi"
+  }
+}

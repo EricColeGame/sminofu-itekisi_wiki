@@ -1,1 +1,489 @@
-{}
+{
+  "site": {
+    "name": "Sminofu iTekisi Wiki",
+    "shortName": "Sminofu iTekisi",
+    "tagline": "17-snit albumgids, vrystellingbesonderhede en visualiseerder",
+    "description": "Verken Sminofu se iTekisi-album, vrygestel op 16 Oktober 2026, met sy volledige 17-snitlys, liedjie-inligting, vrystellingbesonderhede en amptelike musiekvideobronne.",
+    "legalNotice": "Nie-amptelike aanhangerhulpbron. Onafhanklike albumgids en musiekdekking."
+  },
+  "nav": {
+    "guide": "Gids",
+    "songs": "Liedjies",
+    "music": "Musiek",
+    "artists": "Kunstenaars",
+    "lyrics": "Lirieke",
+    "platforms": "Platforms",
+    "discovery": "Ontdekking",
+    "menu": "Spyskaart",
+    "toggleTheme": "Wissel tema"
+  },
+  "home": {
+    "meta": {
+      "title": "Sminofu iTekisi Wiki - Snitlys en liedjiegids",
+      "description": "Verken Sminofu se iTekisi-album met sy volledige 17-snitlys, liedjiebesonderhede, vrystellingdatum, Maskandi musiekagtergrond en amptelike videobronne."
+    },
+    "hero": {
+      "eyebrow": "Maskandi Albumhulpbron",
+      "title": "Sminofu iTekisi Wiki",
+      "description": "Verken Sminofu se 2026-album iTekisi, sy volledige 17-snitlys, vrystellingbesonderhede, Maskandi-agtergrond en amptelike visualiseerderhulpbronne.",
+      "stats": [
+        "17 Snitte",
+        "16 Oktober 2026",
+        "Maskandi",
+        "EMPIRE"
+      ],
+      "primaryCta": "Luister op Apple Music",
+      "secondaryCta": "Kyk amptelike visualiseerder",
+      "tertiaryCta": "Albumbesonderhede",
+      "videoLabel": "Amptelike visualiseerder"
+    },
+    "updates": {
+      "title": "Jongste opdaterings",
+      "browse": "Blaai deur alle gidse",
+      "viewAll": "Bekyk alles"
+    },
+    "start": {
+      "eyebrow": "Begin hier",
+      "title": "Jou Sminofu iTekisi-reis",
+      "cards": [
+        {
+          "number": "1",
+          "title": "Beginnersgids",
+          "description": "Begin met die noodsaaklikhede van die album: kunstenaar, vrystellingdatum, 17-snit-omvang, en die Maskandi-klank agter iTekisi."
+        },
+        {
+          "number": "2",
+          "title": "Volledige snitlys",
+          "description": "Sien al 17 liedjies in albumvolgorde, insluitend looptye en die vyf gasverskynings."
+        },
+        {
+          "number": "3",
+          "title": "Uitstaande liedjies",
+          "description": "Begin met die titelsnit, die 6:05-middelpunt Igeja en die sterkste gasoomblikke."
+        },
+        {
+          "number": "4",
+          "title": "Luistergids",
+          "description": "Beplan 'n luister van voor tot agter of bou 'n korter roete deur die album."
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "Gewilde bladsye",
+      "title": "Nou gewild",
+      "quickLinks": [
+        "Album Oorsig",
+        "Volledige snitlys",
+        "Uitstalkunstenaars",
+        "Luistergids"
+      ],
+      "cards": [
+        {
+          "badge": "Begin",
+          "title": "Album Oorsig",
+          "description": "Kry die vrystellingdatum, snittelling, looptyd, etiketkrediet en die vorm van Sminofu se 17-snitalbum.",
+          "href": "/guide/sminofu-itekisi-album"
+        },
+        {
+          "badge": "Snitlys",
+          "title": "Al 17 liedjies in volgorde",
+          "description": "Volg die volledige loopvolgorde met gastekrediete en looptye vir elke baan.",
+          "href": "/guide/sminofu-itekisi-tracklist"
+        },
+        {
+          "badge": "Resensie",
+          "title": "Sminofu Itekisi Resensie",
+          "description": "Lees hoe die Maskandi-kitaarwerk, volgorde en gasoptredes die album vorm.",
+          "href": "/guide/sminofu-itekisi-album-review"
+        },
+        {
+          "badge": "Kunstenaars",
+          "title": "Uitstalkunstenaars",
+          "description": "Ontmoet Londeka Shangase, Ojakalasi, Njabulo Langa en Zanefa Ngidi.",
+          "href": "/artists/sminofu-itekisi-featured-artists"
+        },
+        {
+          "badge": "Vrystelling",
+          "title": "Vrystellingsbesonderhede",
+          "description": "Bevestig die 16 Oktober 2026 vrystellingdatum en albumkrediete.",
+          "href": "/guide/sminofu-itekisi-album-release-date"
+        },
+        {
+          "badge": "Lirieke",
+          "title": "Titelsnit-lirieke",
+          "description": "Verken die storievertelling met taxi-tema agter die iTekisi-titelsnit.",
+          "href": "/lyrics/sminofu-itekisi-lyrics"
+        },
+        {
+          "badge": "Stroom",
+          "title": "Spotify Albumgids",
+          "description": "Maak die amptelike albumbladsy oop en volg die rekord snit vir snit.",
+          "href": "/platforms/sminofu-itekisi-spotify"
+        },
+        {
+          "badge": "Luister",
+          "title": "Albummengselgids",
+          "description": "Bou 'n roete van 30 minute of hoor al 17 snitte as een aaneenlopende luister.",
+          "href": "/guide/sminofu-itekisi-album-mix"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "Wat is Sminofu iTekisi?",
+      "paragraphs": [
+        "Sminofu iTekisi is die 2026 Maskandi-album deur die Suid-Afrikaanse kunstenaar Sminofu, vrygestel op 16 Oktober 2026 deur Sminofu / EMPIRE. Die 17-snit-projek duur ongeveer een uur en ses minute, met twaalf solo-liedjies en vyf samewerkings met vier gaskunstenaars.",
+        "Die titel is isiZulu vir taxi, en die rekord gebruik daardie alledaagse omgewing as 'n raam vir beweging, gewoel, gesprekke en gedeelde ervaring. Sy Maskandi-grondslag sentreer vingergeplukte kitaar en storievertelling, terwyl die opeenvolging van 'n kort inleiding en titelsnit na 'n gasryke tweede helfte beweeg voordat dit op eMachobeni sluit."
+      ],
+      "stats": [
+        {
+          "label": "Kunstenaar",
+          "value": "Sminofu"
+        },
+        {
+          "label": "Album",
+          "value": "iTekisi"
+        },
+        {
+          "label": "Vrygestel",
+          "value": "16 Oktober 2026"
+        },
+        {
+          "label": "Spore",
+          "value": "17"
+        },
+        {
+          "label": "Looptyd",
+          "value": "1u 6m"
+        },
+        {
+          "label": "Genre",
+          "value": "Maskandi"
+        },
+        {
+          "label": "Etiket",
+          "value": "Sminofu / EMPIRE"
+        },
+        {
+          "label": "Gaste",
+          "value": "4"
+        }
+      ],
+      "cta": "Lees die albumgids"
+    },
+    "explore": {
+      "title": "Verken Sminofu iTekisi",
+      "description": "Delf in die 17-snit-album deur sy volledige snitlys, uitstaande liedjies, uitgeligte kunstenaars, vrystellingsbesonderhede, lirieke en luisterroetes.",
+      "modules": [
+        {
+          "order": 1,
+          "name": "Sminofu Itekisi Albumoorsig",
+          "description": "Stel die 2026 Maskandi-album, sy vrystellingbesonderhede, gasstrategie en die vorm van sy 17-snit-loopvolgorde bekend.",
+          "href": "/guide/sminofu-itekisi-album",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Album",
+              "detail": "Sminofu se 2026 Maskandi-album, vrygestel deur Sminofu / EMPIRE"
+            },
+            {
+              "label": "Klank",
+              "detail": "Vingergeplukte kitaar, groepstemme en vollediger moderne lae frekwensies"
+            },
+            {
+              "label": "17 Snitte",
+              "detail": "Twaalf solo-liedjies en vyf samewerkings oor 66 minute"
+            },
+            {
+              "label": "EMPIRE",
+              "detail": "Etiket- en regtekrediet gedeel deur Sminofu en EMPIRE"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Sminofu Itekisi Snitlys",
+          "description": "Volg al 17 snitte in albumvolgorde, met looptye en gaskrediete vir elke samewerking.",
+          "href": "/guide/sminofu-itekisi-tracklist",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "01",
+              "detail": "Benilindele Bani (Intro) — 1:28 opening"
+            },
+            {
+              "label": "02",
+              "detail": "iTekisi — 4:06 titelsnit"
+            },
+            {
+              "label": "07",
+              "detail": "Ngithunjiwe — 3:26 met Londeka Shangase"
+            },
+            {
+              "label": "17",
+              "detail": "eMachobeni — 3:43 slotlied van die album"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "Sminofu Itekisi Uitstaande liedjies",
+          "description": "Rangskik die album se sleutelsnitte volgens die rol wat hulle speel, van die titelsnit en langvorm middelpunt tot die gas-geleide tweede helfte.",
+          "href": "/music/sminofu-itekisi-latest-songs",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "iTekisi (4:06) en Igeja (6:05) anker die titel en die langste snit"
+            },
+            {
+              "label": "A",
+              "detail": "Ngithunjiwe (3:26) en Iyeke Leyondaba (5:11) koppel die eerste gas met 'n laat langvormsnit"
+            },
+            {
+              "label": "B",
+              "detail": "Madagascar (4:20) en Ngo December (3:34) hou die solo- en gashelftes aan die gang"
+            },
+            {
+              "label": "C",
+              "detail": "Benilindele Bani (Intro) (1:28) en Why Umehlulela (3:12) stel die kortvorm-rande"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Sminofu Itekisi Albumbetekenis",
+          "description": "Verken die taxi-metafoor agter die titel en die alledaagse temas van beweging, gewoel, reputasie en gedeelde ruimte.",
+          "href": "/guide/sminofu-itekisi-album-review",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Taxi",
+              "detail": "Itekisi is isiZulu vir taxi, die album se sentrale alledaagse omgewing"
+            },
+            {
+              "label": "Gewoel",
+              "detail": "Beweging tussen werk, verpligtinge en geleentheid loop deur die liedjies"
+            },
+            {
+              "label": "Mense",
+              "detail": "Die taxi word 'n sosiale ruimte vir gesprek, humor en reputasie"
+            },
+            {
+              "label": "Saam",
+              "detail": "Gedeelde reis verander vreemdelinge in 'n tydelike gehoor en gemeenskap"
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Uitgeligte kunstenaars",
+          "description": "Ontmoet die vier gaste oor vyf snitte en kyk waar elke verskyning in die lopende volgorde beland.",
+          "href": "/artists/sminofu-itekisi-featured-artists",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Londeka",
+              "detail": "Londeka Shangase verskyn twee keer, op Ngithunjiwe en Ngo December"
+            },
+            {
+              "label": "Ojakalasi",
+              "detail": "Ojakalasi sluit by Emabhilidini aan by snit 9 vir die middelalbum-gasverskyning"
+            },
+            {
+              "label": "Njabulo",
+              "detail": "Njabulo Langa neem die 3:17-gasbeurt op Umalumekazi"
+            },
+            {
+              "label": "Zanefa",
+              "detail": "Zanefa Ngidi anker die laat gasverskyning op Njengobaba"
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Sminofu Itekisi Vrystellingsdatum",
+          "description": "Kontroleer die vrystellingdatum, snittelling, looptyd, etiketkrediet en waar die album beskikbaar is om te stroom.",
+          "href": "/guide/sminofu-itekisi-album-release-date",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "2026-10-16",
+              "detail": "Vrystellingsdatum van die album"
+            },
+            {
+              "label": "17",
+              "detail": "Snitte op die album"
+            },
+            {
+              "label": "66:37",
+              "detail": "Totale looptyd"
+            },
+            {
+              "label": "EMPIRE",
+              "detail": "Etiketkrediet: Sminofu / EMPIRE"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Sminofu Itekisi Lirieke",
+          "description": "Volg die titelsnit se taxi-tema storievertelling en vind die amptelike luisterbron vir die woorde.",
+          "href": "/lyrics/sminofu-itekisi-lyrics",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Titel",
+              "detail": "iTekisi is beide die albumtitel en sy 4:06 tweede snit"
+            },
+            {
+              "label": "Taxi",
+              "detail": "Die minibustaxi omraam alledaagse tonele, gesprekke en humor"
+            },
+            {
+              "label": "isiZulu",
+              "detail": "Die liedjie gebruik isiZulu-frasering en Maskandi-vraag-en-antwoord"
+            },
+            {
+              "label": "Amptelik",
+              "detail": "Gebruik die amptelike snitbladsy vir die gemagtigde liriekaansig"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Sminofu Itekisi Luistergids",
+          "description": "Beplan 'n eerste luister van voor tot agter, 'n gefokusde gasverskyning of 'n korter roete van 30 minute deur die album.",
+          "href": "/guide/sminofu-itekisi-album-mix",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Speel die 1:28-intro volledig voor die titelsnit"
+            },
+            {
+              "label": "2",
+              "detail": "Gaan voort deur spore 2 tot 6 vir die langste solo-rek"
+            },
+            {
+              "label": "3",
+              "detail": "Stel snitte 7, 9, 12, 14 en 15 in die ry vir elke gasverskyning"
+            },
+            {
+              "label": "4",
+              "detail": "Gee Igeja (6:05) en Iyeke Leyondaba (5:11) 'n gefokusde luister"
+            },
+            {
+              "label": "5",
+              "detail": "Eindig met eMachobeni sonder om te skommel"
+            },
+            {
+              "label": "6",
+              "detail": "Bou 'n korter roete van 30 minute vanaf die agt-snit-beginreeks"
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "Gereelde Vrae",
+      "description": "Vinnige antwoorde op die mees algemene vrae oor Sminofu iTekisi.",
+      "items": [
+        {
+          "question": "Wat is Sminofu iTekisi?",
+          "answer": "Sminofu iTekisi is die 2026 Maskandi-album deur die Suid-Afrikaanse kunstenaar Sminofu. Dit is op 16 Oktober 2026 vrygestel deur Sminofu / EMPIRE en bevat 17 snitte oor ongeveer een uur en ses minute."
+        },
+        {
+          "question": "Hoeveel liedjies is op Sminofu iTekisi?",
+          "answer": "Daar is 17 liedjies, insluitend die 1:28 intro Benilindele Bani, die 4:06 titelsnit iTekisi, en die 3:43 slotlied eMachobeni. Twaalf snitte is solo en vyf sluit gaskunstenaars in."
+        },
+        {
+          "question": "Wie verskyn op Sminofu iTekisi?",
+          "answer": "Londeka Shangase, Ojakalasi, Njabulo Langa en Zanefa Ngidi verskyn oor vyf snitte. Shangase is die enigste gas met twee verskynings, op Ngithunjiwe en Ngo December."
+        },
+        {
+          "question": "Wat beteken die titel Sminofu iTekisi?",
+          "answer": "Itekisi is isiZulu vir taxi. Die album gebruik daardie alledaagse omgewing om beweging, gewoel, gesprek, reputasie en gedeelde ervaring te raam."
+        },
+        {
+          "question": "Waar kan ek Sminofu iTekisi stroom?",
+          "answer": "Die album is beskikbaar op amptelike stroomdienste, insluitend Spotify en Apple Music. Gebruik die platformgidse op hierdie webwerf vir direkte albumskakels en luisterwenke."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "Verken Sminofu se iTekisi-album",
+      "description": "Blaai deur die volledige snitlys, vrystellingbesonderhede en Maskandi konteks, en kyk dan na die amptelike visualiseerder.",
+      "primary": "Bekyk albumbesonderhede",
+      "secondary": "Luister op Apple Music"
+    }
+  },
+  "guide": {
+    "overviewTitle": "Sminofu Itekisi Albumgids",
+    "overviewDescription": "Volg die iTekisi-album vanaf sy 17-snitstruktuur en vrystellingdatum tot sy sterkste liedjies, resensies en luisterbesonderhede."
+  },
+  "songs": {
+    "overviewTitle": "Sminofu Itekisi Liedjies",
+    "overviewDescription": "Blaai deur individuele Sminofu Itekisi-liedjies, insluitend die titelsnit, Benilindele Bani, Igeja en ander albumhoogtepunte."
+  },
+  "music": {
+    "overviewTitle": "Sminofu Itekisi Musiek en video's",
+    "overviewDescription": "Kyk amptelike oudio, visualiseerders en musiekvideo's, en verken die nuutste Sminofu Itekisi-liedjies en volledige albumterugspeel."
+  },
+  "artists": {
+    "overviewTitle": "Sminofu Itekisi Kunstenaars en medewerkers",
+    "overviewDescription": "Ontmoet Sminofu en die uitstalkunstenaars wat die iTekisi-album vorm, insluitend Londeka Shangase, Njabulo Langa en Zanefa Ngidi."
+  },
+  "lyrics": {
+    "overviewTitle": "Sminofu Itekisi Lirieke",
+    "overviewDescription": "Lees liedjie lirieke van die iTekisi album en volg die woorde agter sy titelsnit, Benilindele Bani, Emabhilidini, en meer."
+  },
+  "platforms": {
+    "overviewTitle": "Sminofu Itekisi Stroomplatforms",
+    "overviewDescription": "Kry die iTekisi-album op Spotify, Apple Music, YouTube en ander platforms, met direkte luister- en ontdekkingskakels."
+  },
+  "discovery": {
+    "overviewTitle": "Sminofu Itekisi Albumontdekking",
+    "overviewDescription": "Ontdek waar om die nuutste Sminofu Itekisi-album oor amptelike musiekdienste te stroom, af te laai en te verken."
+  },
+  "shared": {
+    "wikiNavigation": "Wiki-navigasie",
+    "activeCodes": "Aktiewe kodes",
+    "updated": "Opgedateer",
+    "viewAllCodes": "Bekyk alle kodes",
+    "playOnRoblox": "Speel op Roblox",
+    "inThisSection": "In hierdie afdeling",
+    "tableOfContents": "Inhoudsopgawe",
+    "nextSteps": "Volgende stappe",
+    "needHelp": "Het u hulp nodig?",
+    "relatedReading": "Verwante leeswerk",
+    "relatedGuides": "Verwante gidse",
+    "readMore": "Lees meer",
+    "officialMedia": "Amptelike media",
+    "home": "Tuis",
+    "noGuidesAvailable": "Nog geen gidse beskikbaar nie. Kom kyk gou weer!"
+  },
+  "notFound": {
+    "title": "Bladsy nie gevind nie",
+    "description": "Die gids waarna u soek, het dalk verskuif of is nog nie bygevoeg nie.",
+    "browse": "Blaai deur albumgidse"
+  },
+  "footer": {
+    "aboutTitle": "Sminofu iTekisi Wiki",
+    "about": "Sminofu iTekisi Wiki is 'n onafhanklike aanhangergeboude albumhulpbron wat die 17-snitvrystelling, liedjiebesonderhede, Maskandi agtergrond en amptelike visualiseerderskakels dek.",
+    "quickLinks": "Vinnige skakels",
+    "guides": "Gidse",
+    "legal": "Regtens",
+    "copyright": "2026 Sminofu iTekisi Wiki. Nie geaffilieer met Sminofu, EMPIRE of Apple Music.",
+    "description": "Onafhanklike gids tot Sminofu se 2026 Maskandi-album iTekisi.",
+    "playGame": "Luister op Apple Music",
+    "officialDiscord": "Amptelike visualiseerder",
+    "officialYoutube": "Amptelike YouTube",
+    "vvBuilder": "Amptelike visualiseerder",
+    "beginnerGuide": "Album Oorsig",
+    "raceGuides": "Snitlys en vrystelling",
+    "bossGuides": "Maskandi Agtergrond",
+    "buildGuide": "Visualiseerdergids",
+    "privacyPolicy": "Privaatheidsbeleid",
+    "termsOfService": "Diensbepalings"
+  }
+}

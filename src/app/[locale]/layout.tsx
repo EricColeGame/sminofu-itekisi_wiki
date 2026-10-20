@@ -20,12 +20,13 @@ export function generateStaticParams() {
 
 export async function generateMetadata({ params }: { params: Promise<{ locale: string }> }): Promise<Metadata> {
   const { locale } = await params;
+  const messages = (await getMessages({ locale })) as typeof import("@/locales/en.json");
   const image = `${siteUrl}/images/hero.webp`;
   const adsenseId = process.env.NEXT_PUBLIC_GOOGLE_ADSENSE_ID;
   return {
     metadataBase: new URL(siteUrl),
-    title: { default: "Sminofu iTekisi Wiki", template: "%s" },
-    description: "Explore Sminofu's iTekisi album with its complete 17-track listing, song details, release date, Maskandi music background, and official video resources.",
+    title: { default: messages.site.name, template: "%s" },
+    description: messages.site.description,
     manifest: "/manifest.json",
     icons: {
       icon: [
@@ -40,14 +41,14 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
       locale,
       url: siteUrl,
       siteName: siteConfig.name,
-      title: "Sminofu iTekisi Wiki",
-      description: "Explore Sminofu's iTekisi album with its complete 17-track listing, song details, release date, Maskandi music background, and official video resources.",
-      images: [{ url: image, width: 1600, height: 900, alt: "Sminofu iTekisi Wiki" }],
+      title: messages.site.name,
+      description: messages.site.description,
+      images: [{ url: image, width: 1600, height: 900, alt: messages.site.name }],
     },
     twitter: {
       card: "summary_large_image",
-      title: "Sminofu iTekisi Wiki",
-      description: "Explore Sminofu's iTekisi album with its complete 17-track listing, song details, release date, Maskandi music background, and official video resources.",
+      title: messages.site.name,
+      description: messages.site.description,
       images: [image],
     },
     ...(adsenseId ? { other: { "google-adsense-account": adsenseId } } : {}),
