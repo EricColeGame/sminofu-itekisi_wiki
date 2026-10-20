@@ -5,9 +5,9 @@ import { JsonLd, WikiSidebar } from "@/components/site";
 import { getAllContent, getDynamicNavigation, type ContentItem, CONTENT_TYPES } from "@/lib/content";
 import { routing, type Locale } from "@/i18n/routing";
 import en from "@/locales/en.json";
-import HomePageClient from "./HomePageClient";
+import HomePageClient, { HomeHero } from "./HomePageClient";
 
-const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || "https://myseafoodstand.top";
+const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || "https://sminofu-itekisi.wiki";
 
 type Messages = typeof en;
 
@@ -48,7 +48,8 @@ export default async function LocaleHomePage({ params }: { params: Promise<{ loc
   return (
     <main className="mx-auto max-w-7xl px-4 py-10 sm:px-6 lg:px-8">
       <JsonLd data={webSite} />
-      <div className="grid gap-10 lg:grid-cols-[minmax(0,1fr)_300px]">
+      <HomeHero home={messages.home} />
+      <div className="mt-16 grid gap-10 lg:grid-cols-[minmax(0,1fr)_300px]">
         <HomePageClient home={messages.home} locale={locale} articles={allArticles} recentArticles={recentArticles} />
         <WikiSidebar locale={locale} navGroups={navGroups} />
       </div>

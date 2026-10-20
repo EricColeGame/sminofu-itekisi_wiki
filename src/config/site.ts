@@ -19,18 +19,17 @@ export interface SiteConfig {
 }
 
 export const siteConfig: SiteConfig = {
-  name: "My Seafood Stand Wiki",
-  shortName: "My Seafood Stand",
-  logoText: "SS",
-  tagline: "Complete Guides, Codes, Recipes & Tier Lists",
-  description: "Your ultimate guide to My Seafood Stand on Roblox! Explore active working codes, seafood recipes, best upgrades, profit strategies, and progression guides.",
-  url: process.env.NEXT_PUBLIC_SITE_URL || "https://myseafoodstand.top",
-  supportEmail: `support@${new URL(process.env.NEXT_PUBLIC_SITE_URL || "https://myseafoodstand.top").hostname.replace(/^www\./, "")}`,
-  gameUrl: "https://www.roblox.com/games/my-seafood-stand",
-  heroVideoId: "M8DvcwoFRrk", // Roblox My Seafood Stand codes & gameplay video
+  name: "Sminofu iTekisi Wiki",
+  shortName: "Sminofu iTekisi",
+  logoText: "S",
+  tagline: "Tracklist, Songs & Official Visualizers",
+  description: "Explore Sminofu's iTekisi album, released October 16, 2026, with its 17-track listing, song information, release details, and official music video resources.",
+  url: process.env.NEXT_PUBLIC_SITE_URL || "https://sminofu-itekisi.wiki",
+  supportEmail: `support@${new URL(process.env.NEXT_PUBLIC_SITE_URL || "https://sminofu-itekisi.wiki").hostname.replace(/^www\./, "")}`,
+  gameUrl: "https://music.empi.re/itekisi",
+  heroVideoId: "vd6wF6FPYLU", // Sminofu - iTekisi (Official Visualizer)
   social: {
-    discord: "https://discord.gg/roblox",
-    youtube: "https://www.youtube.com/@roblox",
+    youtube: "https://www.youtube.com/@Sminofu",
   },
   locales: ["en", "es", "pt", "de", "fr"],
   defaultLocale: "en",
