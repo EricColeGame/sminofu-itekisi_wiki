@@ -6,7 +6,17 @@
     "description": "Explore Sminofu's iTekisi album, released October 16, 2026, with its complete 17-track listing, song information, release details, and official music video resources.",
     "legalNotice": "Non-official fan resource. Independent album guide and music coverage."
   },
-  "nav": {},
+  "nav": {
+    "guide": "Guide",
+    "songs": "Songs",
+    "music": "Music",
+    "artists": "Artists",
+    "lyrics": "Lyrics",
+    "platforms": "Platforms",
+    "discovery": "Discovery",
+    "menu": "Menu",
+    "toggleTheme": "Toggle theme"
+  },
   "home": {
     "meta": {
       "title": "Sminofu iTekisi Wiki - Tracklist & Song Guide",
@@ -407,7 +417,34 @@
       "secondary": "Listen on Apple Music"
     }
   },
-  "bosses": {},
+  "guide": {
+    "overviewTitle": "Sminofu Itekisi Album Guide",
+    "overviewDescription": "Follow the iTekisi album from its 17-track structure and release date to its strongest songs, reviews, and listening details."
+  },
+  "songs": {
+    "overviewTitle": "Sminofu Itekisi Songs",
+    "overviewDescription": "Browse individual Sminofu Itekisi songs, including the title track, Benilindele Bani, Igeja, and other album highlights."
+  },
+  "music": {
+    "overviewTitle": "Sminofu Itekisi Music & Videos",
+    "overviewDescription": "Watch official audio, visualizers, and music videos, and explore the latest Sminofu Itekisi songs and full album playback."
+  },
+  "artists": {
+    "overviewTitle": "Sminofu Itekisi Artists & Collaborators",
+    "overviewDescription": "Meet Sminofu and the featured artists who shape the iTekisi album, including Londeka Shangase, Njabulo Langa, and Zanefa Ngidi."
+  },
+  "lyrics": {
+    "overviewTitle": "Sminofu Itekisi Lyrics",
+    "overviewDescription": "Read song lyrics from the iTekisi album and follow the words behind its title track, Benilindele Bani, Emabhilidini, and more."
+  },
+  "platforms": {
+    "overviewTitle": "Sminofu Itekisi Streaming Platforms",
+    "overviewDescription": "Find the iTekisi album on Spotify, Apple Music, YouTube, and other platforms, with direct listening and discovery links."
+  },
+  "discovery": {
+    "overviewTitle": "Sminofu Itekisi Album Discovery",
+    "overviewDescription": "Discover where to stream, download, and explore the latest Sminofu Itekisi album across official music services."
+  },
   "shared": {
     "wikiNavigation": "Wiki Navigation",
     "activeCodes": "Active Codes",
