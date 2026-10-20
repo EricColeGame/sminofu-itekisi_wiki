@@ -8,17 +8,18 @@ import en from "@/locales/en.json";
 import HomePageClient, { HomeHero } from "./HomePageClient";
 
 const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || "https://sminofu-itekisi.wiki";
+const homeTitle = `${siteConfig.name} - Tracklist & Song Guide`;
 
 type Messages = typeof en;
 
 export async function generateMetadata({ params }: { params: Promise<{ locale: string }> }): Promise<Metadata> {
   const { locale } = await params;
-  const messages = (await getMessages({ locale })) as Messages;
   return {
-    title: messages.home.meta.title,
-    description: messages.home.meta.description,
+    title: homeTitle,
+    description: siteConfig.description,
     alternates: { canonical: `/${locale}`, languages: Object.fromEntries(routing.locales.map((loc) => [loc, `/${loc}`])) },
-    openGraph: { title: messages.home.meta.title, description: messages.home.meta.description, url: `${siteUrl}/${locale}`, images: [`${siteUrl}/images/hero.webp`] },
+    openGraph: { title: homeTitle, description: siteConfig.description, url: `${siteUrl}/${locale}`, images: [`${siteUrl}/images/hero.webp`] },
+    twitter: { card: "summary_large_image", title: homeTitle, description: siteConfig.description, images: [`${siteUrl}/images/hero.webp`] },
   };
 }
 
@@ -27,7 +28,7 @@ export default async function LocaleHomePage({ params }: { params: Promise<{ loc
   const loc = locale as Locale;
   const messages = (await getMessages({ locale })) as Messages;
   const navGroups = getDynamicNavigation(loc);
-  const webSite = { "@context": "https://schema.org", "@type": "WebSite", name: siteConfig.name, url: siteUrl, description: messages.home.meta.description };
+  const webSite = { "@context": "https://schema.org", "@type": "WebSite", name: siteConfig.name, alternateName: siteConfig.shortName, url: siteUrl, description: siteConfig.description, inLanguage: locale };
 
   // 动态加载所有 content 目录下的文章
   const allArticles: ContentItem[] = [];
@@ -48,7 +49,7 @@ export default async function LocaleHomePage({ params }: { params: Promise<{ loc
   return (
     <main className="mx-auto max-w-7xl px-4 py-10 sm:px-6 lg:px-8">
       <JsonLd data={webSite} />
-      <HomeHero home={messages.home} />
+      <HomeHero home={messages.home} locale={locale} />
       <div className="mt-16 grid gap-10 lg:grid-cols-[minmax(0,1fr)_300px]">
         <HomePageClient home={messages.home} locale={locale} articles={allArticles} recentArticles={recentArticles} />
         <WikiSidebar locale={locale} navGroups={navGroups} />

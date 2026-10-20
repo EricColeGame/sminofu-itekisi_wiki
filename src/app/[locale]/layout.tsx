@@ -35,8 +35,21 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
       apple: { url: "/apple-touch-icon.png", sizes: "180x180", type: "image/png" },
       shortcut: "/favicon.ico",
     },
-    openGraph: { type: "website", locale, url: siteUrl, siteName: siteConfig.name, images: [{ url: image }] },
-    twitter: { card: "summary_large_image", images: [image] },
+    openGraph: {
+      type: "website",
+      locale,
+      url: siteUrl,
+      siteName: siteConfig.name,
+      title: "Sminofu iTekisi Wiki",
+      description: "Explore Sminofu's iTekisi album with its complete 17-track listing, song details, release date, Maskandi music background, and official video resources.",
+      images: [{ url: image, width: 1600, height: 900, alt: "Sminofu iTekisi Wiki" }],
+    },
+    twitter: {
+      card: "summary_large_image",
+      title: "Sminofu iTekisi Wiki",
+      description: "Explore Sminofu's iTekisi album with its complete 17-track listing, song details, release date, Maskandi music background, and official video resources.",
+      images: [image],
+    },
     ...(adsenseId ? { other: { "google-adsense-account": adsenseId } } : {}),
   };
 }
@@ -53,6 +66,7 @@ export default async function LocaleLayout({ children, params }: { children: Rea
     url: siteUrl,
     logo: `${siteUrl}/android-chrome-512x512.png`,
     image: `${siteUrl}/images/hero.webp`,
+    sameAs: [siteConfig.social?.youtube, siteConfig.social?.visualizer].filter(Boolean),
   };
 
   const adsenseId = process.env.NEXT_PUBLIC_GOOGLE_ADSENSE_ID;
