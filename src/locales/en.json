@@ -39,22 +39,22 @@
         {
           "number": "1",
           "title": "Beginner Guide",
-          "description": "Master the Spirit World from day one with our comprehensive beginner guide covering controls, combat, and early progression."
+          "description": "Start with the album essentials: artist, release date, 17-track scope, and the Maskandi sound behind iTekisi."
         },
         {
           "number": "2",
-          "title": "Fastest Leveling",
-          "description": "Dominate early game and max your progression with the most efficient leveling routes and strategies."
+          "title": "Full Tracklist",
+          "description": "See all 17 songs in album order, including runtimes and the five guest appearances."
         },
         {
           "number": "3",
-          "title": "Best Farming Spots",
-          "description": "Maximize your Soul Essence and EXP gains with optimal farming locations for every stage."
+          "title": "Standout Songs",
+          "description": "Start with the title track, the 6:05 centerpiece Igeja, and the strongest feature moments."
         },
         {
           "number": "4",
-          "title": "How to Extract",
-          "description": "Learn the best methods and locations for extracting resources in Sminofu iTekisi."
+          "title": "Listening Guide",
+          "description": "Plan a front-to-back listen or build a shorter route through the album."
         }
       ]
     },
@@ -62,237 +62,313 @@
       "eyebrow": "Popular Pages",
       "title": "Trending Now",
       "quickLinks": [
-        "Hollow Progression",
-        "Fastest Leveling",
-        "Spirit Charms",
-        "All Boss Guides"
+        "Album Overview",
+        "Full Tracklist",
+        "Featured Artists",
+        "Listening Guide"
       ],
       "cards": [
         {
-          "badge": "Beginner",
-          "title": "Beginner Guide",
-          "description": "Everything you need from your first login to mastering the basics of combat and progression.",
-          "href": "/beginner-guide"
+          "badge": "Start",
+          "title": "Album Overview",
+          "description": "Get the release date, track count, runtime, label credit, and the shape of Sminofu's 17-track album.",
+          "href": "/guide/sminofu-itekisi-album"
         },
         {
-          "badge": "Updated",
-          "title": "Active Codes",
-          "description": "All working codes with rewards redeem before they expire.",
-          "href": "/codes"
+          "badge": "Tracklist",
+          "title": "All 17 Songs in Order",
+          "description": "Follow the complete running order with guest credits and runtimes for every track.",
+          "href": "/guide/sminofu-itekisi-tracklist"
         },
         {
-          "badge": "Updated",
-          "title": "Equipment Database",
-          "description": "94 items across 5 slots complete gear database with stats, rarity, and sources.",
-          "href": "/equipment"
+          "badge": "Review",
+          "title": "Sminofu Itekisi Review",
+          "description": "Read how the Maskandi guitar work, sequencing, and feature placements shape the album.",
+          "href": "/guide/sminofu-itekisi-album-review"
         },
         {
-          "badge": "Popular",
-          "title": "Which Race Should You Pick?",
-          "description": "Shinigami, Quincy, or Hollow compare all three and find your perfect playstyle.",
-          "href": "/races/best-race"
+          "badge": "Artists",
+          "title": "Featured Artists",
+          "description": "Meet Londeka Shangase, Ojakalasi, Njabulo Langa, and Zanefa Ngidi.",
+          "href": "/artists/sminofu-itekisi-featured-artists"
         },
         {
-          "badge": "New",
-          "title": "Enemies & Monsters",
-          "description": "23 enemy types across 5 regions drops, locations, and farming tips.",
-          "href": "/enemies"
+          "badge": "Release",
+          "title": "Release Details",
+          "description": "Confirm the October 16, 2026 release date and album credits.",
+          "href": "/guide/sminofu-itekisi-album-release-date"
         },
         {
-          "badge": "Popular",
-          "title": "Boss Locations & Drops",
-          "description": "Every boss location, drop table, and respawn timer in one reference.",
-          "href": "/boss-locations-drops-respawn-times"
+          "badge": "Lyrics",
+          "title": "Title Track Lyrics",
+          "description": "Explore the taxi-themed storytelling behind the iTekisi title track.",
+          "href": "/lyrics/sminofu-itekisi-lyrics"
         },
         {
-          "badge": "Popular",
-          "title": "Best Builds",
-          "description": "Optimal stat allocation, skill tree picks, and Charm combos for every playstyle.",
-          "href": "/builds/best-builds"
+          "badge": "Stream",
+          "title": "Spotify Album Guide",
+          "description": "Open the official album page and follow the record track by track.",
+          "href": "/platforms/sminofu-itekisi-spotify"
         },
         {
-          "badge": "New",
-          "title": "Shikai Tier List",
-          "description": "All 6 Shinigami Shikai types ranked by PvP and PvE performance.",
-          "href": "/tier-list/shikai"
-        },
-        {
-          "badge": "New",
-          "title": "World Events Guide",
-          "description": "Supply Caches, Raids, and endgame world events with rare rewards.",
-          "href": "/world-events"
+          "badge": "Listen",
+          "title": "Album Mix Guide",
+          "description": "Build a 30-minute route or hear all 17 tracks as one continuous listen.",
+          "href": "/guide/sminofu-itekisi-album-mix"
         }
       ]
     },
     "aboutGame": {
       "title": "What is Sminofu iTekisi?",
       "paragraphs": [
-        "Sminofu iTekisi is a stylized fighting RPG on Roblox inspired by the Bleach anime universe. Choose from three playable races Shinigami, Quincy, or Hollow each with unique progression systems, unlockable abilities, and evolution paths. Master over 130 skills as you fight your way to the level 100 cap.",
-        "Whether you're unlocking your first Shikai, evolving from a base Hollow into an Arrancar, or grinding Quincy Lieutenant missions, our wiki covers every system with detailed guides, data tables, and step-by-step walkthroughs."
+        "Sminofu iTekisi is the 2026 Maskandi album by South African artist Sminofu, released on October 16, 2026 through Sminofu / EMPIRE. The 17-track project runs about one hour and six minutes, with twelve solo songs and five collaborations featuring four guest artists.",
+        "The title is isiZulu for taxi, and the record uses that everyday setting as a frame for movement, hustle, conversation, and shared experience. Its Maskandi foundation centers fingerpicked guitar and storytelling, while the sequencing moves from a short intro and title track into a feature-heavy second half before closing on eMachobeni."
       ],
       "stats": [
         {
-          "label": "Developer",
-          "value": "Midnight Continent"
+          "label": "Artist",
+          "value": "Sminofu"
         },
         {
-          "label": "Platform",
-          "value": "Roblox"
+          "label": "Album",
+          "value": "iTekisi"
+        },
+        {
+          "label": "Released",
+          "value": "October 16, 2026"
+        },
+        {
+          "label": "Tracks",
+          "value": "17"
+        },
+        {
+          "label": "Runtime",
+          "value": "1h 6m"
         },
         {
           "label": "Genre",
-          "value": "Fighting RPG"
+          "value": "Maskandi"
         },
         {
-          "label": "Visits",
-          "value": "12.6M+"
+          "label": "Label",
+          "value": "Sminofu / EMPIRE"
         },
         {
-          "label": "Favorites",
-          "value": "243K+"
-        },
-        {
-          "label": "Total Skills",
-          "value": "130+"
-        },
-        {
-          "label": "Level Cap",
-          "value": "100"
+          "label": "Guests",
+          "value": "4"
         }
       ],
-      "cta": "Explore All Guides"
+      "cta": "Read the Album Guide"
     },
     "explore": {
-      "title": "Explore Sminofu iTekisi Wiki",
-      "description": "Master your seafood restaurant on Roblox with essential progression guides, active codes, complete fish & recipe catalogs, and optimal upgrade strategies.",
+      "title": "Explore Sminofu iTekisi",
+      "description": "Dig into the 17-track album through its full tracklist, standout songs, featured artists, release details, lyrics, and listening routes.",
       "modules": [
         {
           "order": 1,
-          "name": "Sminofu iTekisi Working Codes",
-          "description": "Redeem the latest working codes to claim free coins, gems, exclusive cosmetics, and boost items before they expire.",
-          "href": "/codes/sminofu-itekisi-codes",
-          "displayType": "code-box",
+          "name": "Sminofu Itekisi Album Overview",
+          "description": "Introduce the 2026 Maskandi album, its release details, guest strategy, and the shape of its 17-track running order.",
+          "href": "/guide/sminofu-itekisi-album",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Code",
-              "detail": "FULLRELEASE — Free Cash & Rewards"
+              "label": "Album",
+              "detail": "Sminofu's 2026 Maskandi album, released through Sminofu / EMPIRE"
             },
             {
-              "label": "Code",
-              "detail": "75KLIKES — Exclusive Ability Reroll"
+              "label": "Sound",
+              "detail": "Fingerpicked guitar, group vocals, and a fuller modern low end"
             },
             {
-              "label": "Tip",
-              "detail": "Codes are case-sensitive; enter them in the Settings menu"
+              "label": "17 Tracks",
+              "detail": "Twelve solo songs and five collaborations across 66 minutes"
+            },
+            {
+              "label": "EMPIRE",
+              "detail": "Label and rights credit shared by Sminofu and EMPIRE"
             }
           ]
         },
         {
           "order": 2,
-          "name": "Beginner Guide: How to Start & Serve Customers",
-          "description": "Step-by-step beginner guide covering customer ordering, food prep, station management, and cashier checkout mechanics.",
-          "href": "/guide/sminofu-itekisi-beginner-guide",
-          "displayType": "feature-cards",
+          "name": "Sminofu Itekisi Tracklist",
+          "description": "Follow all 17 tracks in album order, with runtimes and guest credits for each collaboration.",
+          "href": "/guide/sminofu-itekisi-tracklist",
+          "displayType": "code-cards",
           "highlights": [
             {
-              "label": "Step 1",
-              "detail": "Take customer order at the stall front"
+              "label": "01",
+              "detail": "Benilindele Bani (Intro) — 1:28 opener"
             },
             {
-              "label": "Step 2",
-              "detail": "Cook seafood on the grill or boil station"
+              "label": "02",
+              "detail": "iTekisi — 4:06 title track"
             },
             {
-              "label": "Step 3",
-              "detail": "Serve warm food promptly for maximum customer tips"
+              "label": "07",
+              "detail": "Ngithunjiwe — 3:26 with Londeka Shangase"
+            },
+            {
+              "label": "17",
+              "detail": "eMachobeni — 3:43 album closer"
             }
           ]
         },
         {
           "order": 3,
-          "name": "Seafood & Fish Tier List",
-          "description": "Complete breakdown of all catchable fish and seafood ranked by market value, customer demand, and profit margins.",
-          "href": "/seafood/sminofu-itekisi-tier-list",
+          "name": "Sminofu Itekisi Standout Songs",
+          "description": "Rank the album's key tracks by the role they play, from the title cut and long-form centerpiece to the guest-led second half.",
+          "href": "/music/sminofu-itekisi-latest-songs",
           "displayType": "tier-grid",
           "highlights": [
             {
-              "label": "S Tier",
-              "detail": "King Crab · Lobster Boil — Highest profit per customer"
+              "label": "S",
+              "detail": "iTekisi (4:06) and Igeja (6:05) anchor the title and the longest cut"
             },
             {
-              "label": "A Tier",
-              "detail": "Salmon · Jumbo Shrimp · Tuna Steak — Reliable fast earners"
+              "label": "A",
+              "detail": "Ngithunjiwe (3:26) and Iyeke Leyondaba (5:11) pair the first guest with a late long-form track"
             },
             {
-              "label": "B Tier",
-              "detail": "Clams · Oysters · Squid — Great mid-game margin"
+              "label": "B",
+              "detail": "Madagascar (4:20) and Ngo December (3:34) keep the solo and feature halves in motion"
             },
             {
-              "label": "C Tier",
-              "detail": "Common Sardines · Small Crab — Starter seafood"
+              "label": "C",
+              "detail": "Benilindele Bani (Intro) (1:28) and Why Umehlulela (3:12) set the short-form edges"
             }
           ]
         },
         {
           "order": 4,
-          "name": "Best Upgrades Progression",
-          "description": "Optimal order to spend your cash: expand kitchen stations, hire waitstaff, speed up grills, and upgrade seating.",
-          "href": "/upgrades/sminofu-itekisi-best-upgrades",
-          "displayType": "feature-cards",
+          "name": "Sminofu Itekisi Album Meaning",
+          "description": "Explore the taxi metaphor behind the title and the everyday themes of movement, hustle, reputation, and shared space.",
+          "href": "/guide/sminofu-itekisi-album-review",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Priority 1",
-              "detail": "Cooking Speed & Extra Burners — Clears customer backlog"
+              "label": "Taxi",
+              "detail": "Itekisi is isiZulu for taxi, the album's central everyday setting"
             },
             {
-              "label": "Priority 2",
-              "detail": "Customer Seating Capacity — Increases simultaneous diners"
+              "label": "Hustle",
+              "detail": "Movement between work, obligations, and opportunity runs through the songs"
             },
             {
-              "label": "Priority 3",
-              "detail": "Auto-Chef / Waiter Staff — Passive hands-free revenue"
+              "label": "People",
+              "detail": "The taxi becomes a social room for conversation, humor, and reputation"
+            },
+            {
+              "label": "Together",
+              "detail": "Shared travel turns strangers into a temporary audience and community"
             }
           ]
         },
         {
           "order": 5,
-          "name": "How to Get Cash Fast",
-          "description": "Top money-making strategies, VIP evaluation, tip maximization, and high-efficiency serving tips.",
-          "href": "/guide/sminofu-itekisi-how-to-get-cash-fast",
-          "displayType": "feature-cards",
+          "name": "Sminofu Itekisi Featured Artists",
+          "description": "Meet the four guests across five tracks and see where each appearance lands in the running order.",
+          "href": "/artists/sminofu-itekisi-featured-artists",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Combo",
-              "detail": "Chain orders quickly to build the Customer Happiness multiplier"
+              "label": "Londeka",
+              "detail": "Londeka Shangase appears twice, on Ngithunjiwe and Ngo December"
             },
             {
-              "label": "High Margin",
-              "detail": "Focus high-tier seafood boils during peak customer rush hours"
+              "label": "Ojakalasi",
+              "detail": "Ojakalasi joins Emabhilidini at track 9 for the mid-album feature"
             },
             {
-              "label": "Reinvest",
-              "detail": "Keep 20% cash reserve for fresh ingredient replenishment"
+              "label": "Njabulo",
+              "detail": "Njabulo Langa takes the 3:17 guest turn on Umalumekazi"
+            },
+            {
+              "label": "Zanefa",
+              "detail": "Zanefa Ngidi anchors the late feature run on Njengobaba"
             }
           ]
         },
         {
           "order": 6,
-          "name": "Plot Expansion & Stand Customization",
-          "description": "Unlock bigger land plots, arrange optimal cooking layouts, and add high-value decorative upgrades.",
-          "href": "/upgrades/sminofu-itekisi-how-to-upgrade-plot",
-          "displayType": "feature-cards",
+          "name": "Sminofu Itekisi Release Date",
+          "description": "Check the release date, track count, runtime, label credit, and where the album is available to stream.",
+          "href": "/guide/sminofu-itekisi-album-release-date",
+          "displayType": "code-cards",
           "highlights": [
             {
-              "label": "Plot 1",
-              "detail": "Starter Beach Stand (3 Tables, 1 Grill)"
+              "label": "2026-10-16",
+              "detail": "Album release date"
             },
             {
-              "label": "Plot 2",
-              "detail": "Boardwalk Restaurant (6 Tables, 2 Grills, Boil Station)"
+              "label": "17",
+              "detail": "Tracks on the album"
             },
             {
-              "label": "Plot 3",
-              "detail": "Luxury Pier Seafood Pavilion (Full Automation & VIP Seating)"
+              "label": "66:37",
+              "detail": "Total runtime"
+            },
+            {
+              "label": "EMPIRE",
+              "detail": "Label credit: Sminofu / EMPIRE"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Sminofu Itekisi Lyrics",
+          "description": "Follow the title track's taxi-themed storytelling and find the official listening source for the words.",
+          "href": "/lyrics/sminofu-itekisi-lyrics",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Title",
+              "detail": "iTekisi is both the album title and its 4:06 second track"
+            },
+            {
+              "label": "Taxi",
+              "detail": "The minibus taxi frames everyday scenes, conversations, and humor"
+            },
+            {
+              "label": "isiZulu",
+              "detail": "The song uses isiZulu phrasing and Maskandi call-and-response"
+            },
+            {
+              "label": "Official",
+              "detail": "Use the official track page for the authorized lyric view"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Sminofu Itekisi Listening Guide",
+          "description": "Plan a front-to-back first listen, a focused feature run, or a shorter 30-minute route through the album.",
+          "href": "/guide/sminofu-itekisi-album-mix",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Play the 1:28 intro in full before the title track"
+            },
+            {
+              "label": "2",
+              "detail": "Continue through tracks 2 to 6 for the longest solo stretch"
+            },
+            {
+              "label": "3",
+              "detail": "Queue tracks 7, 9, 12, 14, and 15 for every guest appearance"
+            },
+            {
+              "label": "4",
+              "detail": "Give Igeja (6:05) and Iyeke Leyondaba (5:11) a focused listen"
+            },
+            {
+              "label": "5",
+              "detail": "Finish on eMachobeni without shuffling"
+            },
+            {
+              "label": "6",
+              "detail": "Build a shorter 30-minute route from the eight-track starter sequence"
             }
           ]
         }
@@ -304,23 +380,23 @@
       "items": [
         {
           "question": "What is Sminofu iTekisi?",
-          "answer": "Sminofu iTekisi is a free-to-play fighting RPG on Roblox based on the Bleach anime. You choose one of game mechanics Shinigami (Soul Reaper), Quincy, or Hollow each with unique progression, combat abilities, and evolution systems. The game features 130+ skills, a level 100 cap, boss fights, and deep build customization."
+          "answer": "Sminofu iTekisi is the 2026 Maskandi album by South African artist Sminofu. It was released on October 16, 2026 through Sminofu / EMPIRE and contains 17 tracks across about one hour and six minutes."
         },
         {
-          "question": "Which race should beginners pick?",
-          "answer": "Shinigami is the most straightforward starter race, while Hollow and Quincy offer more specialized progression routes. Compare their abilities before committing."
+          "question": "How many songs are on Sminofu iTekisi?",
+          "answer": "There are 17 songs, including the 1:28 intro Benilindele Bani, the 4:06 title track iTekisi, and the 3:43 closer eMachobeni. Twelve tracks are solo and five include guest artists."
         },
         {
-          "question": "What is the current level cap?",
-          "answer": "The current level cap is 100, with more than 130 skills available across trees and race progression systems."
+          "question": "Who features on Sminofu iTekisi?",
+          "answer": "Londeka Shangase, Ojakalasi, Njabulo Langa, and Zanefa Ngidi appear across five tracks. Shangase is the only guest with two appearances, on Ngithunjiwe and Ngo December."
         },
         {
-          "question": "Where do I find active codes?",
-          "answer": "Use the Codes page for working codes, rewards, expiration notes, and redeem instructions."
+          "question": "What does the title Sminofu iTekisi mean?",
+          "answer": "Itekisi is isiZulu for taxi. The album uses that everyday setting to frame movement, hustle, conversation, reputation, and shared experience."
         },
         {
-          "question": "Are boss guides updated?",
-          "answer": "Boss pages are organized with spawn notes, attack patterns, strategies, drop tables, and related next steps for progression."
+          "question": "Where can I stream Sminofu iTekisi?",
+          "answer": "The album is available on official streaming services including Spotify and Apple Music. Use the platform guides on this site for direct album links and listening tips."
         }
       ]
     },
